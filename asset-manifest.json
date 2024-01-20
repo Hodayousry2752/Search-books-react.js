@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Search-books-react.js/static/css/main.593b6d63.css",
+    "main.js": "/Search-books-react.js/static/js/main.74955cd3.js",
+    "static/js/787.29dc8683.chunk.js": "/Search-books-react.js/static/js/787.29dc8683.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Search-books-react.js/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/Search-books-react.js/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Search-books-react.js/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/Search-books-react.js/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/Search-books-react.js/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/not-found.png": "/Search-books-react.js/static/media/not-found.236a095e85d88ec46056.png",
+    "static/media/home-6.svg": "/Search-books-react.js/static/media/home-6.1f0fd6b531edf108d19ad49c7edcda00.svg",
+    "static/media/home-4.svg": "/Search-books-react.js/static/media/home-4.caececf0a20da21680ef3f4e248747b2.svg",
+    "static/media/home-5.svg": "/Search-books-react.js/static/media/home-5.f659b8e5888e9b0967f5f2e10fb95bb1.svg",
+    "static/media/home-3.svg": "/Search-books-react.js/static/media/home-3.c05c45d6c5a16eb3c201e93fde35e8d7.svg",
+    "static/media/fa-regular-400.woff2": "/Search-books-react.js/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/main-apresentation.svg": "/Search-books-react.js/static/media/main-apresentation.f17c6af747e320ba999f51337a01a356.svg",
+    "static/media/search.svg": "/Search-books-react.js/static/media/search.17c732222423eabbc0d511f2927ef613.svg",
+    "static/media/home-2.svg": "/Search-books-react.js/static/media/home-2.9ae0fe0ee92bcb85a40ec7ef405d9bca.svg",
+    "static/media/searching.svg": "/Search-books-react.js/static/media/searching.fac0fe444e7ab92e606b67116a257cac.svg",
+    "static/media/home-1.svg": "/Search-books-react.js/static/media/home-1.816fe936675d1454b060b6fdeb24c95d.svg",
+    "static/media/fa-v4compatibility.ttf": "/Search-books-react.js/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Search-books-react.js/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/nodejs.svg": "/Search-books-react.js/static/media/nodejs.de74aef3bd3ed6f402903ea6ffcf27af.svg",
+    "static/media/google.svg": "/Search-books-react.js/static/media/google.47dec2586fd663a5e5e9f3fecca8105b.svg",
+    "static/media/search-icon.svg": "/Search-books-react.js/static/media/search-icon.9b20aed35e231154be66fefb5417d8a8.svg",
+    "index.html": "/Search-books-react.js/index.html",
+    "static/media/angular.svg": "/Search-books-react.js/static/media/angular.db78a49baee256f6e279ce1dfc00fb8c.svg",
+    "main.593b6d63.css.map": "/Search-books-react.js/static/css/main.593b6d63.css.map",
+    "main.74955cd3.js.map": "/Search-books-react.js/static/js/main.74955cd3.js.map",
+    "787.29dc8683.chunk.js.map": "/Search-books-react.js/static/js/787.29dc8683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.593b6d63.css",
+    "static/js/main.74955cd3.js"
+  ]
+}
