@@ -1,0 +1,16 @@
+
+.booksure{
+    color:var(--blue-color);
+    font-weight: 900;
+    font-size: 27px;
+}
+.booksure:hover{
+    color:var(--blue-hover);
+}
+.about{
+    color: var(--text-grey);
+    font-weight: 100;
+}
+.link-ank:hover{
+    color: var(--text-gray-hover)
+}

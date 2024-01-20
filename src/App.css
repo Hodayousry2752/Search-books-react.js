@@ -1,38 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bree+Serif&family=Comfortaa:wght@600&family=Montserrat+Alternates:wght@300;400&family=Rajdhani:wght@300&display=swap');
+:root{
+  --bg-color:#eff2f1;
+  --blue-color:#89c6ff;
+  --blue-hover:#6aabe7;
+  --text-gray-hover: #1d1d1d;
+  --text-grey: #53585a;
+
+}
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  background-color: var(--bg-color);
 }
